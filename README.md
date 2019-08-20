@@ -10,11 +10,11 @@ This application allow you to either to choose to eat-in by providing a recipe o
 
 
 2.  Choose the type cuisine based on a list available in your area.
-![Select Cuisine](https://github.com/lberti92/CookIt_or_BookIt/blob/master/assets/images\cuisine.png)
+![Select Cuisine](https://github.com/lberti92/CookIt_or_BookIt/blob/master/assets/images/cuisine.png)
 
 
 3.  A list of 5 restaurants and 5 recipes will be provided based on the cuisine chosen.
-![Selection Cards](https://github.com/lberti92/CookIt_or_BookIt/blob/master/assets/images\display.png)
+![Selection Cards](https://github.com/lberti92/CookIt_or_BookIt/blob/master/assets/images/display.png)
 
 
 ## Future Development
