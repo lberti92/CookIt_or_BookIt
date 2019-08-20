@@ -6,7 +6,7 @@ This application allow you to either to choose to eat-in by providing a recipe o
 ## Usage
 
 1.  Choose a location, address or City
-![Select Location](\location.png)
+![Select Location](https://github.com/lberti92/CookIt_or_BookIt/blob/master/assets/images/location.png)
 
 
 2.  Choose the type cuisine based on a list available in your area.
