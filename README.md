@@ -1,1 +1,39 @@
-# CookIt_or_BookIt
+# Cook It or Book It
+Project One
+
+This application allow you to either to choose to eat-in by providing a recipe or dine-out by providing a list of restaurants.   
+
+## Usage
+
+1.  Choose a location, address or City
+![Select Location](assets\images\location.png)
+
+
+2.  Choose the type cuisine based on a list available in your area.
+![Select Cuisine](assets\images\cuisine.png)
+
+
+3.  A list of 5 restaurants and 5 recipes will be provided based on the cuisine chosen.
+![Selection Cards](assets\images\display.png)
+
+
+## Future Development
+- User authentication
+- Search filtering options
+- A favorites section where you can go back and find past recipes made, restaurants visited
+- Connect restaurant address to link you directly with directions
+- Close out cards that you're not interested in
+- Comments ection on recipes and restaurants
+
+## Technologies Used
+
+- JavaScript
+- jQuery
+- Bootstrap
+- Materialize
+- Google Maps API
+- Edamam API
+
+## Author
+
+* **Lori Berti** - [Lori Berti](https://github.com/lberti92)

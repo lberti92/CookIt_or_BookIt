@@ -1,0 +1,67 @@
+form {
+    float: left;
+    margin: 250px 30px 75px 500px;
+    width: 60%;
+    background:#cce6ff;
+    border-radius: 25px;
+    padding: 20px; 
+}
+
+::placeholder {
+  color:black;
+}
+
+.card-img-top {
+  width: 100%!important;
+  height: 300px!important;
+  object-fit: cover;
+}
+
+/* this code is from materialize to create a sticky footer https://materializecss.com/footer.html */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .btn {
+    display: inherit;
+  }
+
+  .background2 {
+    background-image: url(../images/smaller\ plates.jpg)
+  }
+
+/* Width at 980px and below */
+@media screen and (max-width: 980px) {
+
+  body .background{
+    size:50%;
+  }
+
+ 
+  form {
+      margin-left:50%;
+  }
+  nav .brand-logo{
+    left:17%;
+  }
+}
+ 
+/* Width at 768px and below */
+@media screen and (max-width: 768px) {
+  /* nav .brand-logo{
+    left:17%;
+  } */
+
+}
+/* Width at 640px and below */
+@media screen and (max-width: 640px) {
+  nav .brand-logo{
+    left:26%;
+  }
+}
