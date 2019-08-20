@@ -4,7 +4,8 @@ Project One
 This application allow you to either to choose to eat-in by providing a recipe or dine-out by providing a list of restaurants.   
 
 ###Link
-[Cook It or Book It](https://lberti92.github.io/CookIt_or_BookIt)
+[Cook It or Book It]
+(https://lberti92.github.io/CookIt_or_BookIt)
 
 ## Usage
 
