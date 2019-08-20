@@ -6,7 +6,7 @@ This application allow you to either to choose to eat-in by providing a recipe o
 ## Usage
 
 1.  Choose a location, address or City
-![Select Location](assets\images\location.png)
+![Select Location](\images\location.png)
 
 
 2.  Choose the type cuisine based on a list available in your area.
